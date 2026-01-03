@@ -22,7 +22,8 @@ A responsive web application that displays real-time weather data for any city o
 
 ## 📸 Screenshots
 
-*(Yahan aap apne project ka screenshot laga sakte hain baad mein)*
+<img width="689" height="485" alt="image" src="https://github.com/user-attachments/assets/8ff01a6a-8855-440f-91eb-57d6b8495520" />
+
 
 ## 📂 How to Run Locally
 
@@ -41,12 +42,12 @@ Generate a free API Key.
 Open script.js and paste your key in the apikey variable:
 ```
 
-const apikey = "YOUR_API_KEY_HERE";
+const apikey = "c593563c80975b2661f5bf4d9d1394ca";
 ```
 🌐 Live Demo
-[Link to your live project here (e.g., GitHub Pages link)]
+https://premjeet1918.github.io/PRODIGY_WD_04/
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [PREMJEET]
 
 
 ---
@@ -80,6 +81,6 @@ Agar aap VS Code terminal use kar rahe hain, toh yeh commands chalayein:
 
 ### 💡 Pro Tip (Live Link ke liye)
 Upload karne ke baad, GitHub repo ki **Settings > Pages** mein jayein aur `Branch: main` select karke save kar dein. Aapko ek link milega (e.g., `yourname.github.io/weather-app`).
-Wo link upar wale README file ke **"Live Demo"** section mein paste kar dena. Isse aapka project profess
+
 
    
