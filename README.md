@@ -29,7 +29,7 @@ A responsive web application that displays real-time weather data for any city o
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Weather-App-JS.git](https://github.com/your-username/Weather-App-JS.git)
+   git clone [https://github.com/premjeet1918/PRODIGY_WD_04.git)
    .
 
 🔑 Setup
