@@ -82,7 +82,7 @@ function getWeatherByLocation() {
       },
       (err) => {
         console.warn(`ERROR(${err.code}): ${err.message}`);
-        alert("Location access blocked. Please allow location.");
+      
       },
       options
     );
